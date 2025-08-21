@@ -8,7 +8,7 @@ import DSA_assisstant from "../assets/images/projects_img/DSA_assisstant.png";
 import aim_game from "../assets/images/projects_img/aim_game.png";
 import dark_pattern from "../assets/images/projects_img/dark_pattern.png";
 import turtle from "../assets/images/projects_img/turtle.png";
-import shortest_path from "../assets/images/projects_img/shortest_path.png";
+import shortest_path from "../assets/images/projects_img/Shortest_path.png";
 import typing_test from "../assets/images/projects_img/typing_test.png";
 
 import "animate.css";
